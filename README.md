@@ -1,2 +1,2 @@
 # GitTest
-first repos
+first daily challenge and first contribution to github
